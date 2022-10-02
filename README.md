@@ -84,6 +84,9 @@ This was built with the following. If we had more time we would incorporate a ba
 * [Bootstrap](https://getbootstrap.com)
 * [HTML](https://html.com)
 * [CSS](https://css-tricks.com)
+* [FIGMA](https://figma.com)
+
+<a href="https://www.figma.com/file/G4vOb2yJlgHXEVbxnrcnh0/NASA-Space-Apps?node-id=35%3A165">Link to our FIGMA Wireframes</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
