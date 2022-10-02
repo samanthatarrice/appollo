@@ -27,6 +27,8 @@
   <a href="https://samanthatarrice.github.io/appollo">
     <img src="media/images/APPollo.gif" alt="Logo">
   </a>
+  
+  <a href="https://samanthatarrice.github.io/appollo">Link to our site!</a>
 
   <h3 align="center">{APP}ollo</h3>
 
@@ -73,7 +75,7 @@ Our website aims to provide free, hands-on, experiential learning resources gear
 
 Check out our deck to learn more:
 
-<a href="https://www.canva.com/design/DAFN6rPwkcs/Yf1HwORCgRifMuxgwxM8pw/edit?utm_content=DAFN6rPwkcs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">APPollo Deck</a>
+<a href="https://www.canva.com/design/DAFN6rPwkcs/AjKwvvO5--5YfPZ0f7-wSQ/view?utm_content=DAFN6rPwkcs&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent">APPollo Deck</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
