@@ -77,3 +77,22 @@ footer {
 footer p {
   margin-top: 2rem;
 }
+
+/* MARS MAIN */
+
+.mars-main {
+  max-width: 90vw;
+
+}
+
+.mars-img-container {
+  flex: 1;
+
+}
+
+.mars-img {
+  width: 18rem;
+  height: 18rem;
+  object-fit: cover;
+  border-radius: 10px;
+}
