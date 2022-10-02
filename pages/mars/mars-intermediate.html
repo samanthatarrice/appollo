@@ -4,13 +4,94 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/5.2.1/css/bootstrap.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+  <link rel="icon" href="/APPollo_favicon.png">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="/style.css">
   <title>APPollo</title>
 </head>
 <body>
-  <h1 class="title">Mars - Intermediate</h1>
-  <script src="/script.js"></script>
+  <header class="container text-center w-100">
+    <div class="row py-4 d-flex align-items-center w-100 m-auto">
+      <div class="logo col-md-3 col-sm-3">
+        <a href="/index.html"><img src="/media/images/APPollo.gif" alt="APPollo gif"  width="250" /></a>
+      </div>
+      <div class="header-menu-container col-md-7 col-sm-6">
+        <div class="header-menu">
+
+        </div>
+      </div>
+      <div class="profile-menu-container col-md-2 col-sm-3 p-0">
+        <div class="profile-img-container">
+          <img src="/media/images/profile-img.png" alt="">
+        </div>
+        <div class="language-dropdown">
+          <div class="dropdown">
+            <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                      Eng
+                  </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+              <li><a class="dropdown-item" href="#">Spanish</a></li>
+              <li><a class="dropdown-item" href="#">Macedonian</a></li>
+              <li><a class="dropdown-item" href="#">Mandarin</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="mars-main container py-4">
+    <div class="row">
+      <div class="col-md-3 col-4">
+        <img class="mars-img" src="/media/images/04_Mars_PLANET.png" alt="Mars">
+      </div>
+      <div class="col-8">
+        <h1>Mars</h1>
+        <p class="pt-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero, earum voluptate iusto ipsam delectus quod omnis beatae fuga, eaque ad magnam! Illo dolor asperiores possimus, rem obcaecati nihil cupiditate sequi? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto porro amet reiciendis labore, provident sapiente doloremque sint quo vero minus quia dicta magni ducimus consectetur pariatur natus similique omnis officiis?</p>
+      </div>
+    </div>
+    <div class="mars-dropdown dropdown">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                Choose a level...
+            </button>
+      <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+        <li><a class="dropdown-item" href="./mars-beginner.html">Beginner</a></li>
+        <li><a class="dropdown-item" href="./mars-intermediate.html">Intermediate</a></li>
+        <li><a class="dropdown-item" href="./mars-advanced.html">Advanced</a></li>
+      </ul>
+    </div>
+  </section>
+
+
+  <footer>
+    <div class="d-flex justify-content-between pt-3 px-2">
+      <div class="footer-links">
+        <a class="footer-link" href="">ABOUT APPOLLO</a>
+        <a class="footer-link" href="">News</a>
+        <a class="footer-link" href="">Careers</a>
+        <a class="footer-link" href="">Resources</a>
+        <a class="footer-link" href="">Internships/Volunteer Work</a>
+      </div>
+      <div class="social-links">
+        <a href=""><img src="/media/images/facebook.png" alt=""></a>
+        <a href=""><img src="/media/images/instagram.png" alt=""></a>
+        <a href=""><img src="/media/images/twitter.png" alt=""></a>
+        <a href=""><img src="/media/images/youtube.png" alt=""></a>
+      </div>
+    </div>
+    
+    
+    <p class="px-2">©2022 APPollo, Inc. All Rights Reserved</p>
+  </footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+  <script src="script.js"></script>
+
+
 </body>
 
 </html>
