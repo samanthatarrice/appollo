@@ -71,7 +71,7 @@
 
 Check out our deck to learn more:
 
-<a href="#about-the-project">APPollo Deck</a>
+<a href="https://www.canva.com/design/DAFN6rPwkcs/Yf1HwORCgRifMuxgwxM8pw/edit?utm_content=DAFN6rPwkcs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">APPollo Deck</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
