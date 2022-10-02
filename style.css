@@ -153,9 +153,14 @@ footer p {
 
 /* MARS INTERMEDIATE */
 
-.resources {
+.resources-main-container {
   margin: 0 auto;
   width: 90vw;
+}
+
+.mars-title {
+  padding: 3rem 6rem 1rem;
+  font-weight: bold;
 }
 
 .resource-container {
@@ -166,4 +171,36 @@ footer p {
 .resource-container img {
   width: 50%;
   margin-bottom: 10px;
+}
+
+.videos-main-container {
+  margin: 0 auto;
+}
+
+.section-header {
+  padding: 3rem 6rem 1rem;
+}
+
+.section-header h2 {
+  font-weight: bold;
+}
+
+.section-header a {
+  color: #285C8B;
+  font-size: 24px;
+}
+
+.reading-card-img {
+  overflow: hidden;
+  object-fit: cover;
+  width: 100%;
+}
+
+.reading-card {
+  border-radius: 15px;;
+}
+
+.reading-card-title {
+  text-decoration: underline;
+  padding: 8px 0;
 }
