@@ -69,6 +69,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Our website aims to provide free, hands-on, experiential learning resources geared towards 3 different levels of experience: beginner, intermediate and advanced. Additionally, users of all abilities should be able to navigate and access the information they need. Users are provided with a combination of links to resources, internship opportunities, books, games, videos, and popular social media accounts that promote the work and love of science. 
+
 Check out our deck to learn more:
 
 <a href="https://www.canva.com/design/DAFN6rPwkcs/Yf1HwORCgRifMuxgwxM8pw/edit?utm_content=DAFN6rPwkcs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">APPollo Deck</a>
@@ -79,7 +81,7 @@ Check out our deck to learn more:
 
 ### Built With
 
-This was built with the following. If we had more time we would incorporate a backend with Node.js in order to allow users to sign in:
+This was built with the following. If we had more time we would incorporate a backend with Node.js in order to allow users to sign in. We might also extend it by using React Native to create an app:
 
 * [Bootstrap](https://getbootstrap.com)
 * [HTML](https://html.com)
@@ -148,10 +150,12 @@ Coming soon!
 <!-- CONTACT -->
 ## Contact
 
-Cindy Cruz
-Nhu Huynh
-Angel Pichardo
-Samantha Tarrice
+Developed with 💜 by...
+
+* [Cindy Cruz]()
+* [Nhu Huynh]()
+* [Angel Pichardo](https://www.linkedin.com/in/angel-pichardo-598171215/)
+* [Samantha Tarrice](https://www.linkedin.com/in/starrice/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
