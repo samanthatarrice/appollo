@@ -164,5 +164,6 @@ footer p {
 }
 
 .resource-container img {
-  width: 70%;
+  width: 50%;
+  margin-bottom: 10px;
 }
